@@ -1,0 +1,1 @@
+window.LEVELS=[{name:'Sielanka',m:10},{name:'Balecie',m:16},{name:'Prawdziwki',m:22},{name:'Halucynki',m:28},{name:'Król Prawdziwków',m:35}];

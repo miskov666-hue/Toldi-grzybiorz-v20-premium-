@@ -1,0 +1,1 @@
+html,body{margin:0;height:100%;overflow:hidden;background:#123020}#hud{height:48px;background:#08150d;color:#fff;display:flex;align-items:center;justify-content:center;font-family:Arial}canvas{display:block;width:100vw;height:calc(100vh - 48px);background:#7ccf68}

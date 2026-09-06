@@ -1,0 +1,1 @@
+window.ai={step:(e,p,s)=>{e.x+=Math.sign(p.x-e.x)*s;e.y+=Math.sign(p.y-e.y)*s;}};
